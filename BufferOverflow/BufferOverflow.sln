@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BufferOverflow", "BufferOverflow\BufferOverflow.vcxproj", "{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Debug|x64.ActiveCfg = Debug|x64
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Debug|x64.Build.0 = Debug|x64
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Debug|x86.Build.0 = Debug|Win32
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Release|x64.ActiveCfg = Release|x64
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Release|x64.Build.0 = Release|x64
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Release|x86.ActiveCfg = Release|Win32
+		{ECDB6781-BCA5-4E98-956A-CAD4D13FCAEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27EE0EAF-4F13-4BA3-91AC-4A468B49C340}
+	EndGlobalSection
+EndGlobal
